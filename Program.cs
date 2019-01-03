@@ -11,8 +11,9 @@ namespace CodeLibrary
                 {
                     sum += i;
                 }
-            }
-            Console.WriteLine(sum);
-            Console.ReadLine();
+        }
+        
+        Console.WriteLine(sum);
+        Console.ReadLine();
     }
 }
